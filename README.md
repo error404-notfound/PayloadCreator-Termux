@@ -20,7 +20,7 @@
 
 ## Dependencies :
         1 - dialog
-	  2 - php
+	    2 - php
         3 - metasploit
 
 ## Systemas Operativos :
